@@ -24,3 +24,16 @@ E:\TODAY\Labone\Labone\obj\Debug\Labone_MarkupCompile.cache
 E:\TODAY\Labone\Labone\obj\Debug\Labone.g.resources
 E:\TODAY\Labone\Labone\obj\Debug\Labone.Properties.Resources.resources
 E:\TODAY\Labone\Labone\obj\Debug\Labone.csproj.GenerateResource.Cache
+D:\OOPlabs\OOP1\OOP1\Labone\bin\Debug\Labone.exe.config
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.exe
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.pdb
+D:\OOPlabs\OOP1\OOP1\Labone\bin\Debug\Labone.exe
+D:\OOPlabs\OOP1\OOP1\Labone\bin\Debug\Labone.pdb
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.csprojResolveAssemblyReference.cache
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\MainWindow.baml
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\MainWindow.g.cs
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\App.g.cs
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone_MarkupCompile.cache
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.g.resources
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.Properties.Resources.resources
+D:\OOPlabs\OOP1\OOP1\Labone\obj\Debug\Labone.csproj.GenerateResource.Cache

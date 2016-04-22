@@ -24,18 +24,21 @@ namespace Labone
         {
             InitializeComponent();
 
+            ShList shapesList = new ShList();
+
             Sh1 line1 = new Sh1();
-            line1.drawLine(myCanvas, 40, 40, 100, 100);
             Sh2 triangle1 = new Sh2();
-            triangle1.drawTriangle(myCanvas, 150, 40, 250, 40);
             Sh3 some4angle1 = new Sh3();
-            some4angle1.draw4angle(myCanvas, 300, 40, 350, 40);
             Sh4 some6angle1 = new Sh4();
-            some6angle1.draw6angle(myCanvas, 450, 40, 480, 40);
             Sh5 some5angle1 = new Sh5();
-            some5angle1.draw5angle(myCanvas, 550, 40, 600, 40);
             Sh6 star1 = new Sh6();
-            star1.drawStar(myCanvas, 100, 200);
+
+            shapesList.addShape(myCanvas, line1);
+            shapesList.addShape(myCanvas, triangle1);
+            shapesList.addShape(myCanvas, some4angle1);
+            shapesList.addShape(myCanvas, some5angle1);
+            shapesList.addShape(myCanvas, some6angle1);
+            shapesList.addShape(myCanvas, star1);
         }
 
         

@@ -56,6 +56,10 @@
     <Compile Include="Sh1.cs" />
     <Compile Include="Sh2.cs" />
     <Compile Include="Sh3.cs" />
+    <Compile Include="Sh4.cs" />
+    <Compile Include="Sh5.cs" />
+    <Compile Include="Sh6.cs" />
+    <Compile Include="ShList.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
